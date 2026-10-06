@@ -4,7 +4,7 @@
  * @returns {boolean} --> Devuelve true si el número es par, false si es impar.
  */
 
-// Comentario de Andrea (compañera): Esta función recibe un número y comprueba con el operador módulo % si el resto es 0.
+// Comentario del compañer@: Esta función recibe un número y comprueba con el operador módulo % si el resto es 0.
 function comprobarPar(numero) {
     if (numero % 2 === 0) {
         return true;
