@@ -8,7 +8,7 @@
 // Comentario Carla (compañera): Esta función recibe la base y la altura del rectángulo,
 //realiza la multiplicación de ambos valores y devuelve el resultado.
 function areaRectangulo(base, altura) {
-    // Comentario de Ainhoa: Se calcula el área multiplicando la base por la altura.
+    // Comentario de Carla: Se calcula el área multiplicando la base por la altura.
     let area = base * altura;
 
     //Comentario de Carla: Se devuelve el valor del área calculada.
