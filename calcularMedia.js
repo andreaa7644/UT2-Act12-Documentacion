@@ -24,3 +24,6 @@ let media = calcularMedia(nota1, nota2, nota3);
 
 // Comentario de Ainhoa: Muestra la media de las notas por la consola.
 console.log("La media es: " + media);
+
+//Comentario de Andrea (autora): Como mejora futura, podría validarse que ningun a nota fuese negativa.
+// Comentario de Andrea (autora): La documentación explica claramente el funcionamiento de la función y la lógica del programa.
