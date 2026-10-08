@@ -11,7 +11,7 @@ function areaRectangulo(base, altura) {
     // Comentario de Ainhoa: Se calcula el área multiplicando la base por la altura.
     let area = base * altura;
 
-    //Comentario de Ainhoa: Se devuelve el valor del área calculada.
+    //Comentario de Carla: Se devuelve el valor del área calculada.
     return area;
 }
 
