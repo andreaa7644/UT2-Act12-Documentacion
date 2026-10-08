@@ -22,7 +22,7 @@ En esta fase se ha llevado a cabo una **revisión cruzada** de código siguiendo
 
 1. **JSDoc Básico:** Se añadió la documentación con el estándar JSDoc (`@param`, `@returns`) en el archivo asignado a cada integrante.
 2. **Comentarios de Revisión:** Cada revisora añadió comentarios explicativos en el código (`// Comentario del compañer@:`).
-3. **Aclaración del Autor/a:** El/la autor/a original del código añadió sus propias precisiones debajo (`// Comentario del autor/a:`), respetando los comentarios anteriores.
+3. **Aclaración del Autor/a:** La autora original del código añadió sus propias precisiones debajo (`// Comentario del autor/a:`), respetando los comentarios anteriores.
 
 ---
 
